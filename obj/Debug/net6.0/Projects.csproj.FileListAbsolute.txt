@@ -1,0 +1,15 @@
+/home/jhoni/Área de Trabalho/Projects/bin/Debug/net6.0/Projects
+/home/jhoni/Área de Trabalho/Projects/bin/Debug/net6.0/Projects.deps.json
+/home/jhoni/Área de Trabalho/Projects/bin/Debug/net6.0/Projects.runtimeconfig.json
+/home/jhoni/Área de Trabalho/Projects/bin/Debug/net6.0/Projects.dll
+/home/jhoni/Área de Trabalho/Projects/bin/Debug/net6.0/ref/Projects.dll
+/home/jhoni/Área de Trabalho/Projects/bin/Debug/net6.0/Projects.pdb
+/home/jhoni/Área de Trabalho/Projects/obj/Debug/net6.0/Projects.csproj.AssemblyReference.cache
+/home/jhoni/Área de Trabalho/Projects/obj/Debug/net6.0/Projects.GeneratedMSBuildEditorConfig.editorconfig
+/home/jhoni/Área de Trabalho/Projects/obj/Debug/net6.0/Projects.AssemblyInfoInputs.cache
+/home/jhoni/Área de Trabalho/Projects/obj/Debug/net6.0/Projects.AssemblyInfo.cs
+/home/jhoni/Área de Trabalho/Projects/obj/Debug/net6.0/Projects.csproj.CoreCompileInputs.cache
+/home/jhoni/Área de Trabalho/Projects/obj/Debug/net6.0/Projects.dll
+/home/jhoni/Área de Trabalho/Projects/obj/Debug/net6.0/ref/Projects.dll
+/home/jhoni/Área de Trabalho/Projects/obj/Debug/net6.0/Projects.pdb
+/home/jhoni/Área de Trabalho/Projects/obj/Debug/net6.0/Projects.genruntimeconfig.cache
